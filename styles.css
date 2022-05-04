@@ -1,0 +1,28 @@
+body{
+    background-color: aliceblue;
+}
+
+.heading{
+    text-transform: uppercase;
+    padding: 10px;
+    padding-left: 2.4rem;
+}
+
+ul{
+    list-style: none;
+}
+
+li {
+
+    
+    padding: 10px;
+    margin-bottom: 1rem;
+    width: 50%;
+    border: 1px solid;
+}
+
+i{
+    padding: 10px;
+    position: relative;
+    left: 2rem;
+}
